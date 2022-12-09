@@ -1,0 +1,5 @@
+command.c:20:7:receive	4	static
+command.c:23:7:status	4	static
+command.c:26:6:delete	4	static
+command.c:36:6:HAL_UART_RxCpltCallback	16	static
+command.c:49:6:command_parser	4	static
